@@ -14,7 +14,7 @@ body{
     background-image: url(https://drive.google.com/uc?export=view&id=1_9G5jfduECycMWTCrXmJvrlFy9HEd6iW);
     background-attachment: fixed;
     margin: 0;
-    font-family: Helvetica;
+    font-family: proxima;
 }
 
 #parallex{
@@ -94,6 +94,7 @@ body{
     margin-top: 7rem;
     color: aliceblue;
     font-size: 200%;
+    font-family: Helvetica_Bold ;
 }
 
 .tl{
